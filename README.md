@@ -33,7 +33,7 @@
 - Java Unit Testing; 
 - фреймворка Spring Boot;
 - JDBC API
-- CE<L  PostgreSQL;
+- СУБД PostgreSQL;
 
 
 
