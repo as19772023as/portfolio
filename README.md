@@ -31,8 +31,8 @@
 - структуры алгоритмов и данных;
 - Java Core, Многопоточное и функциональное программирование, Шаблоны проектирования, основы ООП, Maven, Gradle;
 - Java Unit Testing; 
-- фреймворка Spring Boot;
-- JDBC API
+- фреймворк Web, Spring, Spring Boot, Spring AOP;
+- JDBC API, Hibernate;
 - СУБД PostgreSQL;
 
 
