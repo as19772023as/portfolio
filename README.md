@@ -31,11 +31,10 @@
 - структуры алгоритмов и данных;
 - Java Core, Многопоточное и функциональное программирование, Шаблоны проектирования, основы ООП, Maven, Gradle;
 - Java Unit Testing; 
-- фреймворк Web, Spring, Spring Boot, Spring AOP;
-- JDBC API, Hibernate;
+- фреймворк Web, Spring, Spring Boot, Spring AOP, Spring Security JWT;
+- JDBC API,ORM, Hibernate;
 - СУБД PostgreSQL;
-
-
+- Kafaka
 
 #### Личные качества
   >> аналитический склад ума, внимательность, высокие способности к обучению, умение работать в команде, ответственность, коммуникабельность.
